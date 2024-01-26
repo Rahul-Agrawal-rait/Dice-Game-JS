@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    color: white;
+    background-color: black;
+    min-height: 100vh;
+    text-align: center;
+    max-width: 100%;
+}
+
+.top-sec h1{
+    padding-top: 0px;
+    margin-bottom: 30px;
+    font-size: 7rem;
+    color: aquamarine;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.dice h3{
+    font-size: 4rem;
+    color: aquamarine;
+    justify-content: space-between;
+
+}
+
+.container-bottom{
+    margin-top: 100px;
+    padding: 20px;
+}
+
+.btn{
+    font-size: 60px;
+    font-family: "Indie Flower", cursive;
+    padding: 16px 25px 16px 25px;
+    border-radius: 25px;
+    background-color: aquamarine;
+    color: white;
+    
+}
